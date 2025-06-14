@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>S2 Average Calculator</title>
+  <title>S4 Average Calculator</title>
   <style>
     body { font-family: Arial; max-width: 600px; margin: auto; padding: 20px; }
     input { margin: 5px 0; padding: 5px; width: 100%; }
@@ -12,7 +12,7 @@
   </style>
 </head>
 <body>
-  <h2>S2 Average Calculator</h2>
+  <h2>S4 Average Calculator</h2>
   <form id="notesForm">
     <label>Methode numerique exam:</label><input type="number" step="0.01" id="a" required />
     <label>Methode numerique TD:</label><input type="number" step="0.01" id="b" required />
