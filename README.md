@@ -22,15 +22,15 @@
     <label>ÉLECTROTECHNIQUE exam:</label><input type="number" step="0.01" id="f" required />
     <label>ÉLECTROTECHNIQUE TD:</label><input type="number" step="0.01" id="g" required />
     <label>ÉLECTROTECHNIQUE TP:</label><input type="number" step="0.01" id="h" required />
-    <label>Logique programme et automatise :</label><input type="number" step="0.01" id="i" required />
+    <label>Logique programme et automatise exam :</label><input type="number" step="0.01" id="i" required />
     <label>Logique programme et automatise TD:</label><input type="number" step="0.01" id="j" required />
     <label>Logique programme et automatise TP:</label><input type="number" step="0.01" id="k" required />
-    <label>Théorie du signal:</label><input type="number" step="0.01" id="l" required />
+    <label>Théorie du signal exam :</label><input type="number" step="0.01" id="l" required />
     <label>Théorie du signal TD:</label><input type="number" step="0.01" id="m" required />
     <label>Mesure electrique:</label><input type="number" step="0.01" id="n" required />
     <label>Téchnique d'expression TD:</label><input type="number" step="0.01" id="o" required />
      <label>Téchnique d'expression  exam:</label><input type="number" step="0.01" id="p" required />
-      <label>Dispositifs electrique :</label><input type="number" step="0.01" id="q" required />
+      <label>Dispositifs electrique exam:</label><input type="number" step="0.01" id="q" required />
     <button type="submit">Calculate Average</button>
   </form>
   <div class="result" id="result"></div>
