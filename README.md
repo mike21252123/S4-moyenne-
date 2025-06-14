@@ -14,9 +14,9 @@
 <body>
   <h2>S2 Average Calculator</h2>
   <form id="notesForm">
-    <label>Methode numeriq exam:</label><input type="number" step="0.01" id="a" required />
-    <label>Methode numeriq TD:</label><input type="number" step="0.01" id="b" required />
-    <label>Électronique  exam:</label><input type="number" step="0.01" id="c" required />
+    <label>Methode numerique exam:</label><input type="number" step="0.01" id="a" required />
+    <label>Methode numerique TD:</label><input type="number" step="0.01" id="b" required />
+    <label>Électronique exam:</label><input type="number" step="0.01" id="c" required />
     <label>Électronique TD:</label><input type="number" step="0.01" id="d" required />
     <label>Électronique TP:</label><input type="number" step="0.01" id="e" required />
     <label>ÉLECTROTECHNIQUE exam:</label><input type="number" step="0.01" id="f" required />
